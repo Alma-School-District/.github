@@ -1,0 +1,2 @@
+# .github
+Alma School District
